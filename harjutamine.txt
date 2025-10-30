@@ -1,0 +1,1 @@
+GitHub on veebipõhine platvorm, mis võimaldab arendajatel hallata ja jagada oma koodi ning teha koostööd teistega. GitHubi kasutavad peamiselt tarkvaraarendajad, aga ka disainerid, projektijuhid ja teised IT-ala spetsialistid.
